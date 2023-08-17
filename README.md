@@ -8,7 +8,7 @@ Currently, with huge amounts of data present throughout the world, technology is
 ### Datasets
 * Facebook Recruiting III - Keyword Extraction | [Kaggle](https://www.kaggle.com/c/facebook-recruiting-iii-keyword-extraction)
 * Predicting tags for StackOverflow | [Kaggle](https://www.kaggle.com/code/miljan/predicting-tags-for-stackoverflow/notebook)
-### Tentative Progression
+### Content
 1. Data Preparation
 2. EDA : Exploratory Data Analysis
 3. Implementing Algorithms
