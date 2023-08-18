@@ -29,6 +29,10 @@ Currently, with huge amounts of data present throughout the world, technology is
     * This lets us gain insight into the bias-variance tradeoff
 
 
+5. Result
+
+![Result](Output/tags.png)
+
 
 **Please Note** : The problem of tag classification has been studied fairly rigorously. This was done to systematically apply and analyze some of the methods known to gain an analytical insight of the hands-on implementation of these various techniques.
 
