@@ -11,8 +11,19 @@ Currently, with huge amounts of data present throughout the world, technology is
 ### Content
 1. Data Preparation
 2. EDA : Exploratory Data Analysis
-3. Implementing Algorithms
-    * The algorithms used Naive Bayes, SVM, Decision Trees, Multi Layer Perceptron, Deep NN, KNN, Multi Label KNN.
+3. List of Models:
+
+    1. **Decision Tree**
+    2. **Extra Trees Classifier**
+    3. **K-Neighbors Classifier (KNN)**
+    4. **Logistic Regression**
+    5. **MLP Classifier**
+    6. **Naive Bayes**
+    7. **Neural Network**
+    8. **Random Forest**
+    9. **Ridge Classifier CV**
+    10. **Support Vector Classifier**
+
 4. Tuning and Analysis
     * The algorithms are tuned with the help of different hyperparameters and cross validation techniques. 
     * This lets us gain insight into the bias-variance tradeoff
